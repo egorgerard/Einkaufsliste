@@ -9,3 +9,6 @@ Dies ist ein **Dickes** und *Kursives* Beispiel
 
 - Liste ? 
 - Denk jo
+
+
+![Floppa Bild](C:/Users/fries/OneDrive - Hochschule Furtwangen/Desktop/floppa.jpg)
